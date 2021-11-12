@@ -1,3 +1,3 @@
 # Speed-Typing
-===============
-Simple text typing with timer
+---
+## Simple text typing with timer
